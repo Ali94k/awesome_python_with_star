@@ -1,4 +1,4 @@
-# Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
+# Based On [awesome-python](https://github.com/vinta/awesome-python)
 
 ## Admin Panels
 |Name|Description|Star count|
